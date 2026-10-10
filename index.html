@@ -1,0 +1,18 @@
+---
+layout: null
+---
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Valore</title>
+  <script>
+    // Opens the visitor's language (it, en, fr, es); Italian otherwise.
+    var lang = (navigator.language || "it").slice(0, 2);
+    if (["it", "en", "fr", "es"].indexOf(lang) < 0) lang = "it";
+    location.replace("{{ '/' | relative_url }}" + lang + "/");
+  </script>
+</head>
+<body><a href="{{ '/it/' | relative_url }}">Italiano</a> · <a href="{{ '/en/' | relative_url }}">English</a> · <a href="{{ '/fr/' | relative_url }}">Français</a> · <a href="{{ '/es/' | relative_url }}">Español</a></body>
+</html>

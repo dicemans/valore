@@ -1,0 +1,59 @@
+<!doctype html>
+{% assign lang = page.lang | default: site.lang %}
+{% assign t = site.data.i18n[lang] %}
+{% assign slug = page.url | split: "/" | last | remove: ".html" %}
+{% if slug == lang or slug == nil %}{% assign slug = "" %}{% endif %}
+<html lang="{{ lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} · Valore</title>
+  <meta name="description" content="{{ t.tagline }}">
+  <style>
+    :root { --ink:#111315; --muted:#5A5F66; --ground:#F2F3F5; --surface:#fff; --line:#E3E5E8; --violet:#6E4BF2; --coral:#FF6B4A; --lime:#D4F53C; --lilac:#DCD3FF; }
+    @media (prefers-color-scheme: dark) { :root { --ink:#F2F3F5; --muted:#B8BCC2; --ground:#111315; --surface:#1A1C1E; --line:#2B2F33; --lilac:#3A3156; } }
+    * { box-sizing: border-box; }
+    body { margin:0; background:var(--ground); color:var(--ink); font: 17px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+    header { background: linear-gradient(135deg, var(--violet), #B04BE0 55%, var(--coral)); color:#fff; padding: 22px 16px 34px; border-radius: 0 0 32px 32px; }
+    .wrap { max-width: 760px; margin: 0 auto; }
+    .brand { display:flex; align-items:center; gap:10px; color:#fff; text-decoration:none; font-weight:800; font-size:22px; }
+    .logo { width:34px; height:34px; border-radius:10px; background:var(--lime); display:grid; place-items:center; color:#111315; font-size:18px; }
+    .top { display:flex; justify-content:space-between; align-items:center; gap:12px; flex-wrap:wrap; }
+    .langs a { color:#fff; opacity:.75; text-decoration:none; font-weight:600; font-size:14px; margin-left:10px; }
+    .langs a.on { opacity:1; text-decoration: underline; text-underline-offset: 4px; }
+    nav { margin-top:18px; display:flex; gap:8px; flex-wrap:wrap; }
+    nav a { color:#fff; text-decoration:none; font-size:14px; font-weight:600; padding:7px 12px; border-radius:999px; background:rgba(255,255,255,.18); }
+    nav a.on { background:#fff; color:#111315; }
+    main { padding: 28px 16px 40px; }
+    article { background:var(--surface); border-radius:24px; padding: 8px 22px 22px; }
+    h1 { font-size: 30px; line-height:1.2; letter-spacing:-.5px; }
+    h2 { font-size: 21px; margin-top: 30px; }
+    a { color: var(--violet); }
+    @media (prefers-color-scheme: dark) { a { color: #B9A8FF; } }
+    table { width:100%; border-collapse: collapse; font-size: 15px; display:block; overflow-x:auto; }
+    th, td { text-align:left; vertical-align:top; padding:10px 8px; border-bottom:1px solid var(--line); }
+    th { font-size:13px; text-transform: uppercase; letter-spacing:.4px; color: var(--muted); }
+    hr { border:0; border-top:1px solid var(--line); margin: 28px 0; }
+    code { background: var(--lilac); padding: 1px 6px; border-radius: 6px; }
+    footer { color: var(--muted); font-size: 13px; padding: 0 16px 40px; text-align:center; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <div class="top">
+        <a class="brand" href="{{ '/' | append: lang | append: '/' | relative_url }}"><span class="logo">🏷</span>Valore</a>
+        <div class="langs">{% for l in site.data.i18n %}<a class="{% if l[0] == lang %}on{% endif %}" href="{{ '/' | append: l[0] | append: '/' | append: slug | relative_url }}">{{ l[0] | upcase }}</a>{% endfor %}</div>
+      </div>
+      <nav>
+        <a class="{% if slug == 'privacy' %}on{% endif %}" href="{{ '/' | append: lang | append: '/privacy' | relative_url }}">{{ t.privacy }}</a>
+        <a class="{% if slug == 'terms' %}on{% endif %}" href="{{ '/' | append: lang | append: '/terms' | relative_url }}">{{ t.terms }}</a>
+        <a class="{% if slug == 'support' %}on{% endif %}" href="{{ '/' | append: lang | append: '/support' | relative_url }}">{{ t.support }}</a>
+        <a class="{% if slug == 'delete-account' %}on{% endif %}" href="{{ '/' | append: lang | append: '/delete-account' | relative_url }}">{{ t.delete }}</a>
+      </nav>
+    </div>
+  </header>
+  <main><div class="wrap"><article>{{ content }}</article></div></main>
+  <footer>TooT S.r.l. · Viale della Resistenza 198, 87036 Rende (CS) · P. IVA 03518790781 · <a href="mailto:info@toot.srl">info@toot.srl</a></footer>
+</body>
+</html>
