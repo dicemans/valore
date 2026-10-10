@@ -11,9 +11,9 @@ Esta política explica qué datos trata la app **Valore** (iOS), por qué, con q
 
 ## 1. Responsable del tratamiento
 
-**TooT S.r.l.**
-Viale della Resistenza 198, 87036 Rende (CS), Italia
-P. IVA 03518790781 · REA CS-240879
+**TooT S.r.l.**<br>
+Viale della Resistenza 198, 87036 Rende (CS), Italia<br>
+P. IVA 03518790781 · REA CS-240879<br>
 PEC: [toot@kelipec.it](mailto:toot@kelipec.it) · Email: [info@toot.srl](mailto:info@toot.srl)
 
 ## 2. En resumen

@@ -11,9 +11,9 @@ Questa informativa spiega quali dati tratta l'app **Valore** (iOS), perché, con
 
 ## 1. Titolare del trattamento
 
-**TooT S.r.l.**
-Viale della Resistenza 198, 87036 Rende (CS), Italia
-P. IVA 03518790781 · REA CS-240879
+**TooT S.r.l.**<br>
+Viale della Resistenza 198, 87036 Rende (CS), Italia<br>
+P. IVA 03518790781 · REA CS-240879<br>
 PEC: [toot@kelipec.it](mailto:toot@kelipec.it) · Email: [info@toot.srl](mailto:info@toot.srl)
 
 ## 2. In breve

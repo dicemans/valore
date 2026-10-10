@@ -42,7 +42,7 @@
   <header>
     <div class="wrap">
       <div class="top">
-        <a class="brand" href="{{ '/' | append: lang | append: '/' | relative_url }}"><span class="logo">🏷</span>Valore</a>
+        <a class="brand" href="{{ '/' | append: lang | append: '/' | relative_url }}"><span class="logo"><svg width="18" height="18" viewBox="0 0 24 24" fill="#111315" aria-hidden="true"><path d="M3 12.6V4a1 1 0 0 1 1-1h8.6a1 1 0 0 1 .7.3l7.4 7.4a1 1 0 0 1 0 1.4l-8.6 8.6a1 1 0 0 1-1.4 0l-7.4-7.4a1 1 0 0 1-.3-.7ZM8 9.5A1.5 1.5 0 1 0 8 6.5a1.5 1.5 0 0 0 0 3Z"/></svg></span>Valore</a>
         <div class="langs">{% for l in site.data.i18n %}<a class="{% if l[0] == lang %}on{% endif %}" href="{{ '/' | append: l[0] | append: '/' | append: slug | relative_url }}">{{ l[0] | upcase }}</a>{% endfor %}</div>
       </div>
       <nav>
