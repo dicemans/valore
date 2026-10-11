@@ -29,6 +29,7 @@ PEC: [toot@kelipec.it](mailto:toot@kelipec.it) · Email: [info@toot.srl](mailto:
 | Dati | Esempi | Da dove arrivano |
 |---|---|---|
 | Identificativo dell'account | codice anonimo generato dall'app | creato automaticamente al primo avvio |
+| Identificativo Apple (facoltativo) | il codice che Apple assegna a Valore per il tuo Apple ID; non riceviamo nome né email | solo se tocchi «Accedi con Apple», per ritrovare l'account su un altro iPhone |
 | Profilo | nome e città (facoltativi), mercato (Italia, Francia, Spagna), piattaforme su cui vendi | li inserisci tu |
 | Foto degli oggetti | fino a 4 foto per oggetto, ed eventuale nota scritta da te (es. «modello A2093») | le scatti o le scegli tu |
 | Oggetti valutati | marca, modello, condizioni, prezzi stimati, storico dei prezzi, avvisi, stato (da vendere, in vendita, venduto) e prezzo di vendita se lo indichi | generati dall'app a partire dalle foto e dagli annunci pubblici |
@@ -38,7 +39,7 @@ PEC: [toot@kelipec.it](mailto:toot@kelipec.it) · Email: [info@toot.srl](mailto:
 
 **Non raccogliamo**: email, numero di telefono, posizione GPS, contatti, identificativo pubblicitario (IDFA), dati di pagamento.
 
-Sul telefono, l'app usa la fotocamera anche per suggerirti come fotografare l'oggetto (per esempio «È un telefono?»): questo riconoscimento avviene **interamente sul dispositivo** e non invia nulla. Le notifiche (analisi completata, avvisi di prezzo) e la Live Activity sono generate sul telefono.
+Sul telefono, l'app usa la fotocamera anche per suggerirti come fotografare l'oggetto (per esempio «È un telefono?»): questo riconoscimento avviene **interamente sul dispositivo** e non invia nulla. La notifica «analisi completata» e la Live Activity sono generate sul telefono. Gli avvisi di prezzo del controllo settimanale (Pro) ti arrivano invece dal nostro server attraverso il servizio di notifiche di Apple: per questo, se consenti le notifiche, salviamo il codice che Apple assegna al tuo iPhone per Valore e la lingua dell'app. Il codice viene cancellato quando elimini l'account o disattivi le notifiche.
 
 ## 4. Perché li trattiamo e su quale base giuridica
 
@@ -61,7 +62,7 @@ Trattiamo i dati tramite fornitori che agiscono come **responsabili del trattame
 | **Supabase** (database, archivio foto, funzioni server) | tutti i dati dell'account | Unione Europea (Francoforte) |
 | **Anthropic** (modello di intelligenza artificiale Claude) | le foto dell'oggetto e l'eventuale nota, per riconoscerlo; il testo per scrivere l'annuncio | Stati Uniti |
 | **RevenueCat** (gestione acquisti in-app) | identificativo anonimo dell'account, stato di abbonamento e crediti | Stati Uniti |
-| **Apple** (App Store, pagamenti, notifiche) | i dati necessari all'acquisto, che Apple tratta come titolare autonomo secondo la propria informativa | — |
+| **Apple** (App Store, pagamenti, notifiche, Accedi con Apple) | i dati necessari all'acquisto, che Apple tratta come titolare autonomo secondo la propria informativa | — |
 
 Per stimare i prezzi l'app interroga gli **annunci pubblici** di eBay (tramite l'API ufficiale eBay Browse), Vinted, Subito, Leboncoin e Wallapop, anche attraverso servizi di lettura di pagine web. A questi servizi inviamo **solo il testo di ricerca** (per esempio «nintendo switch oled»), **mai** dati personali o foto.
 
