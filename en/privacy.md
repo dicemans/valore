@@ -66,6 +66,8 @@ We process data through providers acting as **data processors** (art. 28 GDPR), 
 
 To estimate prices, the app queries the **public listings** of eBay (through the official eBay Browse API), Vinted, Subito, Leboncoin and Wallapop, also through web page reading services. We send these services **only the search text** (for example "nintendo switch oled"), **never** personal data or photos.
 
+**Affiliate links.** Some links to shops and marketplaces (the Amazon stores in the "What it costs new" section and, when the programme is active, eBay listings) are affiliate links: if you buy after tapping them, TooT S.r.l. earns a commission at no cost to you. The link carries only our affiliate code, none of your data; the shop may record the purchase with its own cookies, under its own privacy policy. To see how useful they are, we count taps on these links anonymously: shop, market and item category, without your identifier. As an Amazon Associate, TooT S.r.l. earns from qualifying purchases.
+
 Anthropic, under its commercial terms, **does not use data sent through its API to train its models** and keeps it for a limited period for security purposes.
 
 **Transfers outside the EU.** Transfers to the United States are based on the EU-U.S. Data Privacy Framework, where the provider participates in it, or on the Standard Contractual Clauses approved by the European Commission (art. 46 GDPR).

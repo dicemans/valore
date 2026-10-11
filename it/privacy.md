@@ -66,6 +66,8 @@ Trattiamo i dati tramite fornitori che agiscono come **responsabili del trattame
 
 Per stimare i prezzi l'app interroga gli **annunci pubblici** di eBay (tramite l'API ufficiale eBay Browse), Vinted, Subito, Leboncoin e Wallapop, anche attraverso servizi di lettura di pagine web. A questi servizi inviamo **solo il testo di ricerca** (per esempio «nintendo switch oled»), **mai** dati personali o foto.
 
+**Link affiliati.** Alcuni link verso negozi e marketplace (i negozi Amazon nella sezione «Quanto costa nuovo» e, quando il programma è attivo, gli annunci eBay) sono link affiliati: se acquisti dopo averli toccati, TooT S.r.l. riceve una commissione, senza costi per te. Il link contiene solo il nostro codice di affiliato, nessun tuo dato; il negozio può registrare l'acquisto con i propri cookie, secondo la sua informativa. Per capire quanto sono utili contiamo i tocchi su questi link in forma anonima: negozio, mercato e categoria dell'oggetto, senza il tuo identificativo. In qualità di Affiliato Amazon, TooT S.r.l. riceve un guadagno dagli acquisti idonei.
+
 Anthropic, secondo i propri termini commerciali, **non usa i dati inviati tramite API per addestrare i propri modelli** e li conserva per un periodo limitato per finalità di sicurezza.
 
 **Trasferimenti fuori dall'UE.** I trasferimenti verso gli Stati Uniti avvengono sulla base del EU-U.S. Data Privacy Framework, ove il fornitore vi aderisce, o delle Clausole contrattuali standard approvate dalla Commissione europea (art. 46 GDPR).
