@@ -5,7 +5,7 @@ lang: es
 
 # Política de privacidad de Valore
 
-_Última actualización: 10 de octubre de 2026_
+_Última actualización: 13 de octubre de 2026_
 
 Esta política explica qué datos trata la app **Valore** (iOS), por qué, con quién los comparte y qué derechos tienes, conforme al Reglamento (UE) 2016/679 («RGPD») y al Decreto Legislativo italiano 196/2003.
 
@@ -66,7 +66,7 @@ Tratamos los datos a través de proveedores que actúan como **encargados del tr
 
 Para estimar los precios, la app consulta los **anuncios públicos** de eBay (mediante la API oficial eBay Browse), Vinted, Subito, Leboncoin y Wallapop, también a través de servicios de lectura de páginas web. A estos servicios enviamos **solo el texto de búsqueda** (por ejemplo, «nintendo switch oled»), **nunca** datos personales ni fotos.
 
-**Enlaces de afiliado.** Algunos enlaces a tiendas y marketplaces (las tiendas de Amazon en la sección «Cuánto cuesta nuevo» y, cuando el programa está activo, los anuncios de eBay) son enlaces de afiliado: si compras después de tocarlos, TooT S.r.l. recibe una comisión, sin coste para ti. El enlace contiene solo nuestro código de afiliado, ninguno de tus datos; la tienda puede registrar la compra con sus propias cookies, según su propia política. Para saber si son útiles, contamos los toques en estos enlaces de forma anónima: tienda, mercado y categoría del objeto, sin tu identificador. En calidad de Afiliado de Amazon, TooT S.r.l. obtiene ingresos por las compras adscritas que cumplen los requisitos aplicables.
+**Enlaces de afiliado.** Algunos enlaces a tiendas y marketplaces son enlaces de afiliado: las tiendas de Amazon y los anuncios de eBay, y las tiendas de la red de afiliación Awin (en Italia MediaWorld, Unieuro, Spartoo y Foot Locker en la sección «Cuánto cuesta nuevo»; en Francia los servicios de recompra momox y Back Market en la sección «Véndelo ya»). Si compras o vendes después de tocarlos, TooT S.r.l. recibe una comisión, sin coste para ti. El enlace contiene solo nuestro código de afiliado, ninguno de tus datos. Los enlaces de Awin pasan primero por el sitio de Awin (awin1.com), que registra el clic con una cookie para atribuir la comisión y después abre la tienda; Awin y la tienda tratan estos datos según sus propias políticas ([política de privacidad de Awin](https://www.awin.com/es/privacidad)). Para saber si son útiles, contamos los toques en estos enlaces de forma anónima: tienda, mercado y categoría del objeto, sin tu identificador. En calidad de Afiliado de Amazon, TooT S.r.l. obtiene ingresos por las compras adscritas que cumplen los requisitos aplicables.
 
 Anthropic, según sus condiciones comerciales, **no usa los datos enviados mediante API para entrenar sus modelos** y los conserva durante un período limitado por motivos de seguridad.
 

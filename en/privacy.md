@@ -5,7 +5,7 @@ lang: en
 
 # Valore Privacy Policy
 
-_Last updated: 10 October 2026_
+_Last updated: 13 October 2026_
 
 This policy explains what data the **Valore** app (iOS) processes, why, who it is shared with, and what rights you have, under Regulation (EU) 2016/679 ("GDPR") and Italian Legislative Decree 196/2003.
 
@@ -66,7 +66,7 @@ We process data through providers acting as **data processors** (art. 28 GDPR), 
 
 To estimate prices, the app queries the **public listings** of eBay (through the official eBay Browse API), Vinted, Subito, Leboncoin and Wallapop, also through web page reading services. We send these services **only the search text** (for example "nintendo switch oled"), **never** personal data or photos.
 
-**Affiliate links.** Some links to shops and marketplaces (the Amazon stores in the "What it costs new" section and, when the programme is active, eBay listings) are affiliate links: if you buy after tapping them, TooT S.r.l. earns a commission at no cost to you. The link carries only our affiliate code, none of your data; the shop may record the purchase with its own cookies, under its own privacy policy. To see how useful they are, we count taps on these links anonymously: shop, market and item category, without your identifier. As an Amazon Associate, TooT S.r.l. earns from qualifying purchases.
+**Affiliate links.** Some links to shops and marketplaces are affiliate links: the Amazon stores and eBay listings, and the shops of the Awin affiliate network (in Italy MediaWorld, Unieuro, Spartoo and Foot Locker in the "What it costs new" section; in France the buy-back services momox and Back Market in the "Sell it now" section). If you buy or sell after tapping them, TooT S.r.l. earns a commission at no cost to you. The link carries only our affiliate code, none of your data. Awin links first go through Awin's site (awin1.com), which records the click with a cookie to attribute the commission and then opens the shop; Awin and the shop process this data under their own privacy policies ([Awin's privacy policy](https://www.awin.com/gb/privacy)). To see how useful they are, we count taps on these links anonymously: shop, market and item category, without your identifier. As an Amazon Associate, TooT S.r.l. earns from qualifying purchases.
 
 Anthropic, under its commercial terms, **does not use data sent through its API to train its models** and keeps it for a limited period for security purposes.
 
