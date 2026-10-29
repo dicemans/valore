@@ -5,7 +5,7 @@ lang: it
 
 # Informativa sulla privacy di Valore
 
-_Ultimo aggiornamento: 13 ottobre 2026_
+_Ultimo aggiornamento: 29 ottobre 2026_
 
 Questa informativa spiega quali dati tratta l'app **Valore** (iOS), perché, con chi li condivide e quali diritti hai, ai sensi del Regolamento (UE) 2016/679 («GDPR») e del D.Lgs. 196/2003.
 
@@ -36,6 +36,7 @@ PEC: [toot@kelipec.it](mailto:toot@kelipec.it) · Email: [info@toot.srl](mailto:
 | Annunci generati | titolo e descrizione per Vinted, Subito, eBay e le altre piattaforme | generati dall'app, modificabili da te |
 | Utilizzo del servizio | numero di analisi del mese, crediti usati, annunci generati, data e ora | registrati dal server per applicare limiti e crediti |
 | Acquisti | stato dell'abbonamento Pro e saldo dei crediti | Apple e RevenueCat (non vediamo mai i dati di pagamento) |
+| Account eBay (facoltativo, Pro) | il tuo nome utente eBay e i codici di accesso che eBay rilascia a Valore; **mai la password**, che inserisci solo sul sito di eBay | solo se colleghi l'account per pubblicare da Valore; li cancelli con «Scollega» o eliminando l'account |
 
 **Non raccogliamo**: email, numero di telefono, posizione GPS, contatti, identificativo pubblicitario (IDFA), dati di pagamento.
 
@@ -63,6 +64,7 @@ Trattiamo i dati tramite fornitori che agiscono come **responsabili del trattame
 | **Anthropic** (modello di intelligenza artificiale Claude) | le foto dell'oggetto e l'eventuale nota, per riconoscerlo; il testo per scrivere l'annuncio | Stati Uniti |
 | **RevenueCat** (gestione acquisti in-app) | identificativo anonimo dell'account, stato di abbonamento e crediti | Stati Uniti |
 | **Apple** (App Store, pagamenti, notifiche, Accedi con Apple) | i dati necessari all'acquisto, che Apple tratta come titolare autonomo secondo la propria informativa | — |
+| **eBay** (pubblicazione degli annunci, facoltativa) | solo se pubblichi da Valore: titolo, descrizione, foto, prezzo, condizioni, CAP e opzioni di spedizione dell'annuncio, che eBay tratta come titolare autonomo secondo la propria informativa | — |
 
 Per stimare i prezzi l'app interroga gli **annunci pubblici** di eBay (tramite l'API ufficiale eBay Browse), Vinted, Subito, Leboncoin e Wallapop, anche attraverso servizi di lettura di pagine web. A questi servizi inviamo **solo il testo di ricerca** (per esempio «nintendo switch oled»), **mai** dati personali o foto.
 

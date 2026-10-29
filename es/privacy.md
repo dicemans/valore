@@ -5,7 +5,7 @@ lang: es
 
 # Política de privacidad de Valore
 
-_Última actualización: 13 de octubre de 2026_
+_Última actualización: 29 de octubre de 2026_
 
 Esta política explica qué datos trata la app **Valore** (iOS), por qué, con quién los comparte y qué derechos tienes, conforme al Reglamento (UE) 2016/679 («RGPD») y al Decreto Legislativo italiano 196/2003.
 
@@ -36,6 +36,7 @@ PEC: [toot@kelipec.it](mailto:toot@kelipec.it) · Email: [info@toot.srl](mailto:
 | Anuncios generados | título y descripción para Vinted, Subito, eBay y las demás plataformas | generados por la app, modificables por ti |
 | Uso del servicio | número de análisis del mes, créditos usados, anuncios generados, fecha y hora | registrados por el servidor para aplicar límites y créditos |
 | Compras | estado de la suscripción Pro y saldo de créditos | Apple y RevenueCat (nunca vemos los datos de pago) |
+| Cuenta de eBay (opcional, Pro) | tu nombre de usuario de eBay y los códigos de acceso que eBay emite para Valore; **nunca tu contraseña**, que solo introduces en el sitio de eBay | solo si vinculas la cuenta para publicar desde Valore; se borran con «Desvincular» o al eliminar tu cuenta |
 
 **No recogemos**: correo electrónico, número de teléfono, ubicación GPS, contactos, identificador publicitario (IDFA), datos de pago.
 
@@ -63,6 +64,7 @@ Tratamos los datos a través de proveedores que actúan como **encargados del tr
 | **Anthropic** (modelo de inteligencia artificial Claude) | las fotos del objeto y la nota, si la hay, para reconocerlo; el texto para redactar el anuncio | Estados Unidos |
 | **RevenueCat** (gestión de compras dentro de la app) | identificador anónimo de la cuenta, estado de la suscripción y créditos | Estados Unidos |
 | **Apple** (App Store, pagos, notificaciones, Iniciar sesión con Apple) | los datos necesarios para la compra, que Apple trata como responsable independiente según su propia política | — |
+| **eBay** (publicación de anuncios, opcional) | solo si publicas desde Valore: título, descripción, fotos, precio, estado, código postal y opciones de envío del anuncio, que eBay trata como responsable independiente según su propia política | — |
 
 Para estimar los precios, la app consulta los **anuncios públicos** de eBay (mediante la API oficial eBay Browse), Vinted, Subito, Leboncoin y Wallapop, también a través de servicios de lectura de páginas web. A estos servicios enviamos **solo el texto de búsqueda** (por ejemplo, «nintendo switch oled»), **nunca** datos personales ni fotos.
 

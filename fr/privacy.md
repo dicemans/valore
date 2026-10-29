@@ -5,7 +5,7 @@ lang: fr
 
 # Politique de confidentialité de Valore
 
-_Dernière mise à jour : 13 octobre 2026_
+_Dernière mise à jour : 29 octobre 2026_
 
 Cette politique explique quelles données l'app **Valore** (iOS) traite, pourquoi, avec qui elles sont partagées et quels sont tes droits, conformément au Règlement (UE) 2016/679 (« RGPD ») et au décret législatif italien 196/2003.
 
@@ -36,6 +36,7 @@ PEC : [toot@kelipec.it](mailto:toot@kelipec.it) · E-mail : [info@toot.srl](mail
 | Annonces générées | titre et description pour Vinted, Subito, eBay et les autres plateformes | générées par l'app, modifiables par toi |
 | Utilisation du service | nombre d'analyses du mois, crédits utilisés, annonces générées, date et heure | enregistrées par le serveur pour appliquer les limites et les crédits |
 | Achats | statut de l'abonnement Pro et solde des crédits | Apple et RevenueCat (nous ne voyons jamais les données de paiement) |
+| Compte eBay (facultatif, Pro) | ton nom d'utilisateur eBay et les codes d'accès qu'eBay délivre à Valore ; **jamais ton mot de passe**, que tu saisis uniquement sur le site d'eBay | seulement si tu relies le compte pour publier depuis Valore ; supprimés avec « Dissocier » ou en supprimant ton compte |
 
 **Nous ne collectons pas** : e-mail, numéro de téléphone, position GPS, contacts, identifiant publicitaire (IDFA), données de paiement.
 
@@ -63,6 +64,7 @@ Nous traitons les données par l'intermédiaire de prestataires agissant en tant
 | **Anthropic** (modèle d'intelligence artificielle Claude) | les photos de l'objet et l'éventuelle note, pour le reconnaître ; le texte pour rédiger l'annonce | États-Unis |
 | **RevenueCat** (gestion des achats intégrés) | identifiant anonyme du compte, statut de l'abonnement et crédits | États-Unis |
 | **Apple** (App Store, paiements, notifications, Se connecter avec Apple) | les données nécessaires à l'achat, qu'Apple traite en tant que responsable de traitement autonome selon sa propre politique | — |
+| **eBay** (publication des annonces, facultative) | seulement si tu publies depuis Valore : titre, description, photos, prix, état, code postal et options de livraison de l'annonce, qu'eBay traite en tant que responsable de traitement autonome selon sa propre politique | — |
 
 Pour estimer les prix, l'app interroge les **annonces publiques** d'eBay (via l'API officielle eBay Browse), Vinted, Subito, Leboncoin et Wallapop, y compris par le biais de services de lecture de pages web. À ces services, nous envoyons **uniquement le texte de recherche** (par exemple « nintendo switch oled »), **jamais** de données personnelles ni de photos.
 
