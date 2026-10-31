@@ -5,7 +5,7 @@ lang: it
 
 # Informativa sulla privacy di Valore
 
-_Ultimo aggiornamento: 29 ottobre 2026_
+_Ultimo aggiornamento: 31 ottobre 2026_
 
 Questa informativa spiega quali dati tratta l'app **Valore** (iOS), perché, con chi li condivide e quali diritti hai, ai sensi del Regolamento (UE) 2016/679 («GDPR») e del D.Lgs. 196/2003.
 
@@ -34,8 +34,8 @@ PEC: [toot@kelipec.it](mailto:toot@kelipec.it) · Email: [info@toot.srl](mailto:
 | Foto degli oggetti | fino a 4 foto per oggetto, ed eventuale nota scritta da te (es. «modello A2093») | le scatti o le scegli tu |
 | Oggetti valutati | marca, modello, condizioni, prezzi stimati, storico dei prezzi, avvisi, stato (da vendere, in vendita, venduto) e prezzo di vendita se lo indichi | generati dall'app a partire dalle foto e dagli annunci pubblici |
 | Annunci generati | titolo e descrizione per Vinted, Subito, eBay e le altre piattaforme | generati dall'app, modificabili da te |
-| Utilizzo del servizio | numero di analisi del mese, crediti usati, annunci generati, data e ora | registrati dal server per applicare limiti e crediti |
-| Acquisti | stato dell'abbonamento Pro e saldo dei crediti | Apple e RevenueCat (non vediamo mai i dati di pagamento) |
+| Utilizzo del servizio | numero di analisi del mese, analisi acquistate usate, annunci generati, data e ora | registrati dal server per applicare i limiti e scalare le analisi acquistate |
+| Acquisti | stato dell'abbonamento Pro e analisi acquistate ancora disponibili | Apple e RevenueCat (non vediamo mai i dati di pagamento) |
 | Account eBay (facoltativo, Pro) | il tuo nome utente eBay e i codici di accesso che eBay rilascia a Valore; **mai la password**, che inserisci solo sul sito di eBay | solo se colleghi l'account per pubblicare da Valore; li cancelli con «Scollega» o eliminando l'account |
 
 **Non raccogliamo**: email, numero di telefono, posizione GPS, contatti, identificativo pubblicitario (IDFA), dati di pagamento.
@@ -47,7 +47,7 @@ Sul telefono, l'app usa la fotocamera anche per suggerirti come fotografare l'og
 | Finalità | Base giuridica (GDPR) |
 |---|---|
 | Riconoscere l'oggetto, stimarne il valore, generare gli annunci, salvare i tuoi oggetti e monitorarne il prezzo | esecuzione del contratto, cioè dei Termini d'uso (art. 6.1.b) |
-| Gestire abbonamento, prova gratuita e crediti | esecuzione del contratto (art. 6.1.b) |
+| Gestire abbonamento, prova gratuita e pacchetti di analisi | esecuzione del contratto (art. 6.1.b) |
 | Applicare i limiti di utilizzo, prevenire abusi, garantire la sicurezza e controllare i costi del servizio | legittimo interesse (art. 6.1.f) |
 | Rispondere alle tue richieste di assistenza | esecuzione del contratto e legittimo interesse (art. 6.1.b e f) |
 | Notifiche sul telefono | tuo consenso, dato e revocabile dalle Impostazioni di iOS |
@@ -62,7 +62,7 @@ Trattiamo i dati tramite fornitori che agiscono come **responsabili del trattame
 |---|---|---|
 | **Supabase** (database, archivio foto, funzioni server) | tutti i dati dell'account | Unione Europea (Francoforte) |
 | **Anthropic** (modello di intelligenza artificiale Claude) | le foto dell'oggetto e l'eventuale nota, per riconoscerlo; il testo per scrivere l'annuncio | Stati Uniti |
-| **RevenueCat** (gestione acquisti in-app) | identificativo anonimo dell'account, stato di abbonamento e crediti | Stati Uniti |
+| **RevenueCat** (gestione acquisti in-app) | identificativo anonimo dell'account, stato di abbonamento e analisi acquistate | Stati Uniti |
 | **Apple** (App Store, pagamenti, notifiche, Accedi con Apple) | i dati necessari all'acquisto, che Apple tratta come titolare autonomo secondo la propria informativa | — |
 | **eBay** (pubblicazione degli annunci, facoltativa) | solo se pubblichi da Valore: titolo, descrizione, foto, prezzo, condizioni, CAP e opzioni di spedizione dell'annuncio, che eBay tratta come titolare autonomo secondo la propria informativa | — |
 
@@ -79,7 +79,7 @@ Non vendiamo né cediamo i tuoi dati a terzi per fini commerciali.
 ## 6. Per quanto tempo conserviamo i dati
 
 - **Account, profilo, oggetti, foto e annunci**: finché non li elimini. Quando cancelli un oggetto, cancelliamo anche le sue foto; quando elimini l'account, cancelliamo **tutti** i dati collegati.
-- **Registro dell'utilizzo** (analisi, crediti): per la durata dell'account, perché serve a calcolare i limiti mensili.
+- **Registro dell'utilizzo** (analisi, comprese quelle acquistate): per la durata dell'account, perché serve a calcolare i limiti mensili.
 - **Copie di sicurezza** del database: i dati eliminati possono restarvi fino a un massimo di 30 giorni, poi vengono sovrascritti.
 - **Dati di acquisto**: Apple e RevenueCat li conservano secondo i propri termini e gli obblighi di legge.
 

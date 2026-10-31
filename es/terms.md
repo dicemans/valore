@@ -5,7 +5,7 @@ lang: es
 
 # Términos de uso de Valore
 
-_Última actualización: 10 de octubre de 2026_
+_Última actualización: 31 de octubre de 2026_
 
 Estos Términos regulan el uso de la app **Valore** («la App»), proporcionada por **TooT S.r.l.**, Viale della Resistenza 198, 87036 Rende (CS), P. IVA 03518790781 («nosotros»). Al usar la App los aceptas. Se aplican junto con el [Contrato de licencia estándar de Apple](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) (EULA).
 
@@ -25,11 +25,11 @@ No garantizamos que la App esté siempre disponible ni que esté libre de errore
 
 Valore **no está afiliada** a eBay, Vinted, Subito, Leboncoin ni Wallapop, ni está aprobada por ellos; sus nombres y marcas pertenecen a sus respectivos titulares y se usan solo para indicar la fuente de los datos. Esta app usa la API de eBay, pero no está aprobada ni certificada por eBay Inc. Cuando publicas un anuncio en una plataforma, aceptas sus términos.
 
-## 4. Planes, suscripciones y créditos
+## 4. Planes, suscripciones y packs de análisis
 
 - **Plan gratuito**: 3 análisis al mes.
 - **Valore Pro**: suscripción mensual o anual con hasta 150 análisis al mes y el seguimiento de hasta 25 objetos con avisos de precio. La suscripción anual puede incluir una prueba gratuita de 7 días; te avisamos 2 días antes de que termine.
-- **Créditos**: paquetes de análisis adicionales con pago único; se usan después de los análisis incluidos en el mes y no caducan mientras exista la cuenta.
+- **Packs de análisis**: análisis adicionales con pago único; se usan después de los análisis incluidos en el mes y no caducan mientras exista la cuenta.
 
 Los pagos, las renovaciones y los reembolsos los gestiona **Apple** a través de tu cuenta del App Store. La suscripción se renueva automáticamente salvo que la canceles al menos 24 horas antes de su vencimiento, desde **Ajustes › [tu nombre] › Suscripciones**. Para los reembolsos se aplican las normas de Apple ([reportaproblem.apple.com](https://reportaproblem.apple.com)). Quedan a salvo los derechos que te reconoce el Código del Consumo italiano (Codice del Consumo).
 

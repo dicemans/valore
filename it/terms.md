@@ -5,7 +5,7 @@ lang: it
 
 # Termini d'uso di Valore
 
-_Ultimo aggiornamento: 10 ottobre 2026_
+_Ultimo aggiornamento: 31 ottobre 2026_
 
 Questi Termini regolano l'uso dell'app **Valore** («l'App»), fornita da **TooT S.r.l.**, Viale della Resistenza 198, 87036 Rende (CS), P. IVA 03518790781 («noi»). Usando l'App li accetti. Si applicano insieme al [Contratto di licenza standard di Apple](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) (EULA).
 
@@ -25,11 +25,11 @@ Non garantiamo che l'App sia sempre disponibile o priva di errori, nei limiti co
 
 Valore **non è affiliata** a eBay, Vinted, Subito, Leboncoin o Wallapop, né approvata da loro; i loro nomi e marchi appartengono ai rispettivi titolari e sono usati solo per indicare la fonte dei dati. Questa app usa l'API di eBay ma non è approvata né certificata da eBay Inc. Quando pubblichi un annuncio su una piattaforma, ne accetti i termini.
 
-## 4. Piani, abbonamenti e crediti
+## 4. Piani, abbonamenti e pacchetti di analisi
 
 - **Piano gratuito**: 3 analisi al mese.
 - **Valore Pro**: abbonamento mensile o annuale con fino a 150 analisi al mese e il monitoraggio di fino a 25 oggetti con avvisi di prezzo. L'abbonamento annuale può includere una prova gratuita di 7 giorni; ti avvisiamo 2 giorni prima della fine.
-- **Crediti**: pacchetti di analisi aggiuntive con pagamento unico; si usano dopo le analisi incluse nel mese e non scadono finché l'account esiste.
+- **Pacchetti di analisi**: analisi aggiuntive con pagamento unico; si usano dopo le analisi incluse nel mese e non scadono finché l'account esiste.
 
 Pagamenti, rinnovi e rimborsi sono gestiti da **Apple** tramite il tuo account App Store. L'abbonamento si rinnova automaticamente salvo disdetta almeno 24 ore prima della scadenza, da **Impostazioni › [il tuo nome] › Abbonamenti**. Per i rimborsi valgono le regole di Apple ([reportaproblem.apple.com](https://reportaproblem.apple.com)). Restano salvi i diritti che ti riconosce il Codice del Consumo.
 

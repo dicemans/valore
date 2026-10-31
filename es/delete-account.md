@@ -21,14 +21,14 @@ La eliminación es inmediata y **no se puede deshacer**.
 - el perfil (nombre, ciudad, mercado, plataformas);
 - todos los objetos valorados, con sus **fotos**, precios, historial y avisos;
 - los anuncios generados;
-- el registro de uso (análisis y créditos usados).
+- el registro de uso (análisis realizados, incluidos los comprados).
 
 Las copias de seguridad de la base de datos se sobrescriben en un plazo de 30 días.
 
-## Suscripción y créditos
+## Suscripción y análisis comprados
 
 **Eliminar la cuenta no cancela la suscripción**: las suscripciones las gestiona Apple. Antes de eliminar la cuenta, cancela desde **Ajustes › [tu nombre] › Suscripciones › Valore**.
-Los créditos que no hayas usado se pierden al eliminar la cuenta.
+Los análisis comprados que no hayas usado se pierden al eliminar la cuenta.
 
 ## ¿Ya no tienes la app?
 

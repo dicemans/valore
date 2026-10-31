@@ -21,14 +21,14 @@ L'eliminazione è immediata e **non si può annullare**.
 - il profilo (nome, città, mercato, piattaforme);
 - tutti gli oggetti valutati, con **foto**, prezzi, storico e avvisi;
 - gli annunci generati;
-- il registro di utilizzo (analisi e crediti usati).
+- il registro di utilizzo (analisi fatte, comprese quelle acquistate).
 
 Le copie di sicurezza del database vengono sovrascritte entro 30 giorni.
 
-## Abbonamento e crediti
+## Abbonamento e analisi acquistate
 
 **Eliminare l'account non disdice l'abbonamento**: gli abbonamenti sono gestiti da Apple. Prima di eliminare l'account, disdici da **Impostazioni › [il tuo nome] › Abbonamenti › Valore**.
-I crediti non ancora usati vengono persi con l'eliminazione dell'account.
+Le analisi acquistate e non ancora usate vengono perse con l'eliminazione dell'account.
 
 ## Non hai più l'app?
 

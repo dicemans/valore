@@ -21,14 +21,14 @@ La suppression est immédiate et **ne peut pas être annulée**.
 - le profil (nom, ville, marché, plateformes) ;
 - tous les objets évalués, avec leurs **photos**, prix, historique et alertes ;
 - les annonces générées ;
-- le journal d'utilisation (analyses et crédits utilisés).
+- le journal d'utilisation (analyses effectuées, y compris celles achetées).
 
 Les sauvegardes de la base de données sont écrasées sous 30 jours.
 
-## Abonnement et crédits
+## Abonnement et analyses achetées
 
 **Supprimer le compte ne résilie pas l'abonnement** : les abonnements sont gérés par Apple. Avant de supprimer le compte, résilie depuis **Réglages › [ton nom] › Abonnements › Valore**.
-Les crédits non encore utilisés sont perdus avec la suppression du compte.
+Les analyses achetées et pas encore utilisées sont perdues avec la suppression du compte.
 
 ## Tu n'as plus l'app ?
 

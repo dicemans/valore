@@ -17,7 +17,7 @@ Reconoce el objeto a partir de las fotos, busca anuncios similares activos en eB
 Toca **«Versión por confirmar»** o **«¿No es este?»** en la ficha del objeto y elige la correcta: el precio se recalcula sin consumir un análisis. Para evitarlo, fotografía también la etiqueta o la pantalla con el modelo (la app te sugiere dónde encontrarla).
 
 **¿Cuántos análisis puedo hacer?**
-Con el plan gratuito, 3 al mes. Con Valore Pro, hasta 150 al mes. Además puedes comprar **créditos**, que se usan después de los análisis incluidos y no caducan.
+Con el plan gratuito, 3 al mes. Con Valore Pro, hasta 150 al mes. Además puedes comprar **packs de análisis**, que se usan después de los incluidos y no caducan.
 
 **¿Cómo cancelo la suscripción?**
 Las suscripciones las gestiona Apple: **Ajustes › [tu nombre] › Suscripciones › Valore**. Durante la prueba gratuita te avisamos 2 días antes del primer cobro.

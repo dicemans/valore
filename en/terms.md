@@ -5,7 +5,7 @@ lang: en
 
 # Valore Terms of Use
 
-_Last updated: 10 October 2026_
+_Last updated: 31 October 2026_
 
 These Terms govern the use of the **Valore** app (the "App"), provided by **TooT S.r.l.**, Viale della Resistenza 198, 87036 Rende (CS), VAT no. 03518790781 ("we"). By using the App you accept them. They apply together with Apple's [Standard License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) (EULA).
 
@@ -25,11 +25,11 @@ We do not guarantee that the App will always be available or error-free, to the 
 
 Valore is **not affiliated** with, or endorsed by, eBay, Vinted, Subito, Leboncoin or Wallapop; their names and trademarks belong to their respective owners and are used only to indicate the source of the data. This app uses the eBay API but is not endorsed or certified by eBay Inc. When you publish a listing on a platform, you accept its terms.
 
-## 4. Plans, subscriptions and credits
+## 4. Plans, subscriptions and scan packs
 
 - **Free plan**: 3 scans per month.
 - **Valore Pro**: monthly or annual subscription with up to 150 scans per month and tracking of up to 25 items with price alerts. The annual subscription may include a 7-day free trial; we notify you 2 days before it ends.
-- **Credits**: one-time-payment packs of additional scans; they are used after the scans included in the month and do not expire as long as the account exists.
+- **Scan packs**: additional scans with a one-time payment; they are used after the scans included in the month and do not expire as long as the account exists.
 
 Payments, renewals and refunds are handled by **Apple** through your App Store account. The subscription renews automatically unless cancelled at least 24 hours before it expires, from **Settings › [your name] › Subscriptions**. Apple's rules apply to refunds ([reportaproblem.apple.com](https://reportaproblem.apple.com)). Your rights under the Italian Consumer Code (Codice del Consumo) remain unaffected.
 

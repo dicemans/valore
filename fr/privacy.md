@@ -5,7 +5,7 @@ lang: fr
 
 # Politique de confidentialité de Valore
 
-_Dernière mise à jour : 29 octobre 2026_
+_Dernière mise à jour : 31 octobre 2026_
 
 Cette politique explique quelles données l'app **Valore** (iOS) traite, pourquoi, avec qui elles sont partagées et quels sont tes droits, conformément au Règlement (UE) 2016/679 (« RGPD ») et au décret législatif italien 196/2003.
 
@@ -34,8 +34,8 @@ PEC : [toot@kelipec.it](mailto:toot@kelipec.it) · E-mail : [info@toot.srl](mail
 | Photos des objets | jusqu'à 4 photos par objet, et éventuellement une note écrite par toi (ex. « modèle A2093 ») | prises ou choisies par toi |
 | Objets évalués | marque, modèle, état, prix estimés, historique des prix, alertes, statut (à vendre, en vente, vendu) et prix de vente si tu l'indiques | générées par l'app à partir des photos et des annonces publiques |
 | Annonces générées | titre et description pour Vinted, Subito, eBay et les autres plateformes | générées par l'app, modifiables par toi |
-| Utilisation du service | nombre d'analyses du mois, crédits utilisés, annonces générées, date et heure | enregistrées par le serveur pour appliquer les limites et les crédits |
-| Achats | statut de l'abonnement Pro et solde des crédits | Apple et RevenueCat (nous ne voyons jamais les données de paiement) |
+| Utilisation du service | nombre d'analyses du mois, analyses achetées utilisées, annonces générées, date et heure | enregistrées par le serveur pour appliquer les limites et décompter les analyses achetées |
+| Achats | statut de l'abonnement Pro et analyses achetées encore disponibles | Apple et RevenueCat (nous ne voyons jamais les données de paiement) |
 | Compte eBay (facultatif, Pro) | ton nom d'utilisateur eBay et les codes d'accès qu'eBay délivre à Valore ; **jamais ton mot de passe**, que tu saisis uniquement sur le site d'eBay | seulement si tu relies le compte pour publier depuis Valore ; supprimés avec « Dissocier » ou en supprimant ton compte |
 
 **Nous ne collectons pas** : e-mail, numéro de téléphone, position GPS, contacts, identifiant publicitaire (IDFA), données de paiement.
@@ -47,7 +47,7 @@ Sur ton téléphone, l'app utilise aussi l'appareil photo pour te suggérer comm
 | Finalité | Base juridique (RGPD) |
 |---|---|
 | Reconnaître l'objet, estimer sa valeur, générer les annonces, enregistrer tes objets et suivre leur prix | exécution du contrat, c'est-à-dire des Conditions d'utilisation (art. 6.1.b) |
-| Gérer l'abonnement, l'essai gratuit et les crédits | exécution du contrat (art. 6.1.b) |
+| Gérer l'abonnement, l'essai gratuit et les packs d'analyses | exécution du contrat (art. 6.1.b) |
 | Appliquer les limites d'utilisation, prévenir les abus, garantir la sécurité et maîtriser les coûts du service | intérêt légitime (art. 6.1.f) |
 | Répondre à tes demandes d'assistance | exécution du contrat et intérêt légitime (art. 6.1.b et f) |
 | Notifications sur le téléphone | ton consentement, donné et révocable depuis les Réglages d'iOS |
@@ -62,7 +62,7 @@ Nous traitons les données par l'intermédiaire de prestataires agissant en tant
 |---|---|---|
 | **Supabase** (base de données, stockage des photos, fonctions serveur) | toutes les données du compte | Union européenne (Francfort) |
 | **Anthropic** (modèle d'intelligence artificielle Claude) | les photos de l'objet et l'éventuelle note, pour le reconnaître ; le texte pour rédiger l'annonce | États-Unis |
-| **RevenueCat** (gestion des achats intégrés) | identifiant anonyme du compte, statut de l'abonnement et crédits | États-Unis |
+| **RevenueCat** (gestion des achats intégrés) | identifiant anonyme du compte, statut de l'abonnement et analyses achetées | États-Unis |
 | **Apple** (App Store, paiements, notifications, Se connecter avec Apple) | les données nécessaires à l'achat, qu'Apple traite en tant que responsable de traitement autonome selon sa propre politique | — |
 | **eBay** (publication des annonces, facultative) | seulement si tu publies depuis Valore : titre, description, photos, prix, état, code postal et options de livraison de l'annonce, qu'eBay traite en tant que responsable de traitement autonome selon sa propre politique | — |
 
@@ -79,7 +79,7 @@ Nous ne vendons ni ne cédons tes données à des tiers à des fins commerciales
 ## 6. Combien de temps nous conservons les données
 
 - **Compte, profil, objets, photos et annonces** : jusqu'à ce que tu les supprimes. Quand tu supprimes un objet, nous supprimons aussi ses photos ; quand tu supprimes le compte, nous supprimons **toutes** les données associées.
-- **Journal d'utilisation** (analyses, crédits) : pendant toute la durée du compte, car il sert à calculer les limites mensuelles.
+- **Journal d'utilisation** (analyses, y compris celles achetées) : pendant toute la durée du compte, car il sert à calculer les limites mensuelles.
 - **Sauvegardes** de la base de données : les données supprimées peuvent y rester au maximum 30 jours, puis elles sont écrasées.
 - **Données d'achat** : Apple et RevenueCat les conservent selon leurs propres conditions et leurs obligations légales.
 

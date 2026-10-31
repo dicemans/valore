@@ -17,7 +17,7 @@ Riconosce l'oggetto dalle foto, cerca gli annunci simili attivi su eBay, Vinted 
 Tocca **«Versione da confermare»** o **«Non è questo?»** nella scheda dell'oggetto e scegli quella giusta: il prezzo si ricalcola senza consumare un'analisi. Per evitarlo, fotografa anche l'etichetta o la schermata con il modello (l'app ti suggerisce dove trovarla).
 
 **Quante analisi posso fare?**
-Con il piano gratuito 3 al mese. Con Valore Pro fino a 150 al mese. In più puoi acquistare **crediti**, che si usano dopo le analisi incluse e non scadono.
+Con il piano gratuito 3 al mese. Con Valore Pro fino a 150 al mese. In più puoi acquistare **pacchetti di analisi**, che si usano dopo quelle incluse e non scadono.
 
 **Come disdico l'abbonamento?**
 Gli abbonamenti sono gestiti da Apple: **Impostazioni › [il tuo nome] › Abbonamenti › Valore**. Durante la prova gratuita ti avvisiamo 2 giorni prima del primo addebito.

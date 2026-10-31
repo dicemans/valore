@@ -5,7 +5,7 @@ lang: fr
 
 # Conditions d'utilisation de Valore
 
-_Dernière mise à jour : 10 octobre 2026_
+_Dernière mise à jour : 31 octobre 2026_
 
 Ces Conditions régissent l'utilisation de l'app **Valore** (« l'App »), fournie par **TooT S.r.l.**, Viale della Resistenza 198, 87036 Rende (CS), P. IVA 03518790781 (« nous »). En utilisant l'App, tu les acceptes. Elles s'appliquent conjointement au [Contrat de licence standard d'Apple](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) (EULA).
 
@@ -25,11 +25,11 @@ Nous ne garantissons pas que l'App soit toujours disponible ou exempte d'erreurs
 
 Valore n'est **pas affiliée** à eBay, Vinted, Subito, Leboncoin ou Wallapop, ni approuvée par eux ; leurs noms et marques appartiennent à leurs titulaires respectifs et ne sont utilisés que pour indiquer la source des données. Cette app utilise l'API d'eBay mais n'est ni approuvée ni certifiée par eBay Inc. Quand tu publies une annonce sur une plateforme, tu en acceptes les conditions.
 
-## 4. Formules, abonnements et crédits
+## 4. Formules, abonnements et packs d'analyses
 
 - **Formule gratuite** : 3 analyses par mois.
 - **Valore Pro** : abonnement mensuel ou annuel avec jusqu'à 150 analyses par mois et le suivi de jusqu'à 25 objets avec alertes de prix. L'abonnement annuel peut inclure un essai gratuit de 7 jours ; nous te prévenons 2 jours avant la fin.
-- **Crédits** : packs d'analyses supplémentaires à paiement unique ; ils s'utilisent après les analyses incluses dans le mois et n'expirent pas tant que le compte existe.
+- **Packs d'analyses** : analyses supplémentaires à paiement unique ; ils s'utilisent après les analyses incluses dans le mois et n'expirent pas tant que le compte existe.
 
 Les paiements, renouvellements et remboursements sont gérés par **Apple** via ton compte App Store. L'abonnement se renouvelle automatiquement sauf résiliation au moins 24 heures avant l'échéance, depuis **Réglages › [ton nom] › Abonnements**. Pour les remboursements, les règles d'Apple s'appliquent ([reportaproblem.apple.com](https://reportaproblem.apple.com)). Les droits que te reconnaît le Code de la consommation italien (Codice del Consumo) demeurent réservés.
 

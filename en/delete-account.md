@@ -21,14 +21,14 @@ Deletion is immediate and **cannot be undone**.
 - your profile (name, city, market, platforms);
 - all valued items, with their **photos**, prices, history and alerts;
 - generated listings;
-- the usage log (scans and credits used).
+- the usage log (scans done, including bought ones).
 
 Database backups are overwritten within 30 days.
 
-## Subscription and credits
+## Subscription and bought scans
 
 **Deleting your account does not cancel your subscription**: subscriptions are managed by Apple. Before deleting your account, cancel from **Settings › [your name] › Subscriptions › Valore**.
-Unused credits are lost when the account is deleted.
+Bought scans you haven't used yet are lost when the account is deleted.
 
 ## No longer have the app?
 

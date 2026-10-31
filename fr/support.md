@@ -17,7 +17,7 @@ Elle reconnaît l'objet à partir des photos, cherche les annonces similaires ac
 Touche **« Version à confirmer »** ou **« Ce n'est pas ça ? »** dans la fiche de l'objet et choisis la bonne : le prix est recalculé sans consommer d'analyse. Pour l'éviter, photographie aussi l'étiquette ou l'écran affichant le modèle (l'app te suggère où le trouver).
 
 **Combien d'analyses puis-je faire ?**
-Avec la formule gratuite, 3 par mois. Avec Valore Pro, jusqu'à 150 par mois. Tu peux en plus acheter des **crédits**, qui s'utilisent après les analyses incluses et n'expirent pas.
+Avec la formule gratuite, 3 par mois. Avec Valore Pro, jusqu'à 150 par mois. Tu peux en plus acheter des **packs d'analyses**, qui s'utilisent après les analyses incluses et n'expirent pas.
 
 **Comment résilier l'abonnement ?**
 Les abonnements sont gérés par Apple : **Réglages › [ton nom] › Abonnements › Valore**. Pendant l'essai gratuit, nous te prévenons 2 jours avant le premier prélèvement.

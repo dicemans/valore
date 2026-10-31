@@ -17,7 +17,7 @@ It recognises the item from the photos, looks for similar active listings on eBa
 Tap **"Version to confirm"** or **"Not this one?"** on the item's page and choose the right one: the price is recalculated without using up a scan. To avoid this, also photograph the label or the screen showing the model (the app suggests where to find it).
 
 **How many scans can I do?**
-3 per month on the free plan. Up to 150 per month with Valore Pro. You can also buy **credits**, which are used after the included scans and do not expire.
+3 per month on the free plan. Up to 150 per month with Valore Pro. You can also buy **scan packs**, which are used after the included scans and do not expire.
 
 **How do I cancel my subscription?**
 Subscriptions are managed by Apple: **Settings › [your name] › Subscriptions › Valore**. During the free trial we notify you 2 days before the first charge.
