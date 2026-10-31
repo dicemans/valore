@@ -18,7 +18,7 @@ La suppression est immédiate et **ne peut pas être annulée**.
 
 ## Ce qui est effacé
 
-- le profil (nom, ville, marché, plateformes) ;
+- le profil (nom, pays, plateformes) ;
 - tous les objets évalués, avec leurs **photos**, prix, historique et alertes ;
 - les annonces générées ;
 - le journal d'utilisation (analyses effectuées, y compris celles achetées).

@@ -30,7 +30,7 @@ PEC : [toot@kelipec.it](mailto:toot@kelipec.it) · E-mail : [info@toot.srl](mail
 |---|---|---|
 | Identifiant du compte | code anonyme généré par l'app | créé automatiquement au premier lancement |
 | Identifiant Apple (facultatif) | le code qu'Apple attribue à Valore pour ton identifiant Apple ; nous ne recevons ni ton nom ni ton e-mail | seulement si tu touches « Se connecter avec Apple », pour retrouver ton compte sur un autre iPhone |
-| Profil | nom et ville (facultatifs), marché (Italie, France, Espagne), plateformes sur lesquelles tu vends | saisis par toi |
+| Profil | nom (facultatif), pays (Italie, France, Espagne), plateformes sur lesquelles tu vends | saisis par toi |
 | Photos des objets | jusqu'à 4 photos par objet, et éventuellement une note écrite par toi (ex. « modèle A2093 ») | prises ou choisies par toi |
 | Objets évalués | marque, modèle, état, prix estimés, historique des prix, alertes, statut (à vendre, en vente, vendu) et prix de vente si tu l'indiques | générées par l'app à partir des photos et des annonces publiques |
 | Annonces générées | titre et description pour Vinted, Subito, eBay et les autres plateformes | générées par l'app, modifiables par toi |
@@ -90,7 +90,7 @@ Le compte est anonyme et lié à cet appareil : si tu désinstalles l'app sans l
 Tu peux exercer à tout moment les droits prévus par les art. 15 à 22 du RGPD : **accès, rectification, effacement, limitation, portabilité et opposition**.
 
 - **Suppression** : depuis l'app, dans *Profil › Supprimer le compte* (voir la page [Suppression du compte](delete-account)).
-- **Rectification** : le nom, la ville et le marché se modifient directement dans le *Profil*.
+- **Rectification** : le nom et le pays se modifient directement dans le *Profil*.
 - **Tous les autres droits** : écris-nous à [info@toot.srl](mailto:info@toot.srl) ou par PEC à [toot@kelipec.it](mailto:toot@kelipec.it), en indiquant si possible l'identifiant du compte que tu trouves dans *Profil*. Nous répondons sous 30 jours.
 
 Tu as en outre le droit d'introduire une réclamation auprès du **Garante per la protezione dei dati personali** (l'autorité italienne de protection des données, [www.garanteprivacy.it](https://www.garanteprivacy.it)) ou auprès de l'autorité de ton pays de résidence (en France, la CNIL).

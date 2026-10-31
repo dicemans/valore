@@ -30,7 +30,7 @@ PEC: [toot@kelipec.it](mailto:toot@kelipec.it) · Email: [info@toot.srl](mailto:
 |---|---|---|
 | Identificador de la cuenta | código anónimo generado por la app | creado automáticamente en el primer inicio |
 | Identificador de Apple (opcional) | el código que Apple asigna a Valore para tu ID de Apple; no recibimos tu nombre ni tu email | solo si tocas «Iniciar sesión con Apple», para recuperar tu cuenta en otro iPhone |
-| Perfil | nombre y ciudad (opcionales), mercado (Italia, Francia, España), plataformas en las que vendes | los introduces tú |
+| Perfil | nombre (opcional), país (Italia, Francia, España), plataformas en las que vendes | los introduces tú |
 | Fotos de los objetos | hasta 4 fotos por objeto y, si quieres, una nota escrita por ti (p. ej. «modelo A2093») | las haces o las eliges tú |
 | Objetos valorados | marca, modelo, estado, precios estimados, historial de precios, avisos, situación (para vender, en venta, vendido) y precio de venta si lo indicas | generados por la app a partir de las fotos y de los anuncios públicos |
 | Anuncios generados | título y descripción para Vinted, Subito, eBay y las demás plataformas | generados por la app, modificables por ti |
@@ -90,7 +90,7 @@ La cuenta es anónima y está vinculada a este dispositivo: si desinstalas la ap
 Puedes ejercer en cualquier momento los derechos previstos en los arts. 15–22 del RGPD: **acceso, rectificación, supresión, limitación, portabilidad y oposición**.
 
 - **Supresión**: desde la app, en *Perfil › Eliminar cuenta* (consulta la página [Eliminación de la cuenta](delete-account)).
-- **Rectificación**: el nombre, la ciudad y el mercado se modifican directamente en el *Perfil*.
+- **Rectificación**: el nombre y el país se modifican directamente en el *Perfil*.
 - **Todos los demás derechos**: escríbenos a [info@toot.srl](mailto:info@toot.srl) o por PEC a [toot@kelipec.it](mailto:toot@kelipec.it), indicando, si es posible, el identificador de la cuenta que encontrarás en *Perfil*. Respondemos en un plazo de 30 días.
 
 También tienes derecho a presentar una reclamación ante el **Garante per la protezione dei dati personali** ([www.garanteprivacy.it](https://www.garanteprivacy.it)) o ante la autoridad de control de tu país de residencia (en España, la Agencia Española de Protección de Datos, AEPD).

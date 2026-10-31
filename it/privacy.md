@@ -30,7 +30,7 @@ PEC: [toot@kelipec.it](mailto:toot@kelipec.it) · Email: [info@toot.srl](mailto:
 |---|---|---|
 | Identificativo dell'account | codice anonimo generato dall'app | creato automaticamente al primo avvio |
 | Identificativo Apple (facoltativo) | il codice che Apple assegna a Valore per il tuo Apple ID; non riceviamo nome né email | solo se tocchi «Accedi con Apple», per ritrovare l'account su un altro iPhone |
-| Profilo | nome e città (facoltativi), mercato (Italia, Francia, Spagna), piattaforme su cui vendi | li inserisci tu |
+| Profilo | nome (facoltativo), paese (Italia, Francia, Spagna), piattaforme su cui vendi | li inserisci tu |
 | Foto degli oggetti | fino a 4 foto per oggetto, ed eventuale nota scritta da te (es. «modello A2093») | le scatti o le scegli tu |
 | Oggetti valutati | marca, modello, condizioni, prezzi stimati, storico dei prezzi, avvisi, stato (da vendere, in vendita, venduto) e prezzo di vendita se lo indichi | generati dall'app a partire dalle foto e dagli annunci pubblici |
 | Annunci generati | titolo e descrizione per Vinted, Subito, eBay e le altre piattaforme | generati dall'app, modificabili da te |
@@ -90,7 +90,7 @@ L'account è anonimo e collegato a questo dispositivo: se disinstalli l'app senz
 Puoi esercitare in qualsiasi momento i diritti previsti dagli artt. 15–22 GDPR: **accesso, rettifica, cancellazione, limitazione, portabilità e opposizione**.
 
 - **Cancellazione**: dall'app, in *Profilo › Elimina account* (vedi la pagina [Eliminazione account](delete-account)).
-- **Rettifica**: nome, città e mercato si modificano direttamente nel *Profilo*.
+- **Rettifica**: nome e paese si modificano direttamente nel *Profilo*.
 - **Tutti gli altri diritti**: scrivici a [info@toot.srl](mailto:info@toot.srl) o via PEC a [toot@kelipec.it](mailto:toot@kelipec.it), indicando se possibile l'identificativo dell'account che trovi in *Profilo*. Rispondiamo entro 30 giorni.
 
 Hai inoltre il diritto di proporre reclamo al **Garante per la protezione dei dati personali** ([www.garanteprivacy.it](https://www.garanteprivacy.it)) o all'autorità del tuo Paese di residenza.

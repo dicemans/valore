@@ -18,7 +18,7 @@ L'eliminazione è immediata e **non si può annullare**.
 
 ## Cosa viene cancellato
 
-- il profilo (nome, città, mercato, piattaforme);
+- il profilo (nome, paese, piattaforme);
 - tutti gli oggetti valutati, con **foto**, prezzi, storico e avvisi;
 - gli annunci generati;
 - il registro di utilizzo (analisi fatte, comprese quelle acquistate).

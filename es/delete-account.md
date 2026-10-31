@@ -18,7 +18,7 @@ La eliminación es inmediata y **no se puede deshacer**.
 
 ## Qué se borra
 
-- el perfil (nombre, ciudad, mercado, plataformas);
+- el perfil (nombre, país, plataformas);
 - todos los objetos valorados, con sus **fotos**, precios, historial y avisos;
 - los anuncios generados;
 - el registro de uso (análisis realizados, incluidos los comprados).

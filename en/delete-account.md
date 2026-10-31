@@ -18,7 +18,7 @@ Deletion is immediate and **cannot be undone**.
 
 ## What gets deleted
 
-- your profile (name, city, market, platforms);
+- your profile (name, country, platforms);
 - all valued items, with their **photos**, prices, history and alerts;
 - generated listings;
 - the usage log (scans done, including bought ones).
